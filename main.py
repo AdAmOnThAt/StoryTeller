@@ -325,5 +325,5 @@ if __name__ == "__main__":
               break
 
   # Start the battle sequence when the script is executed directly
-  if __name__ == "__main__":
+    if __name__ == "__main__":
       battle("Creepies", player_item, companion_item)
